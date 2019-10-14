@@ -22,7 +22,7 @@ end
 --load user file
 function loadfile(path)
     if getUserConfig(path) then
-        require(path)
+       return  require(path)
     end
 end
 
