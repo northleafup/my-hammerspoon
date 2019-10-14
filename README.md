@@ -20,11 +20,11 @@ You  can run like this
 ```bash
 cd ~
 cd .hammerspoon/private
-# if there is this file ,you need't to copy it 
+# if the file exists ,you need't to copy it 
 cp ../example/global_key.lua global_key.lua
 ```
 
-There demo come  and change from [this](https://github.com/ashfinal/awesome-hammerspoon/blob/master/init.lua)
+There demo come  and change from [here](https://github.com/ashfinal/awesome-hammerspoon/blob/master/init.lua)
 
 You can not delete function `obj.rebind` ,but you can update its body 
 
@@ -50,11 +50,11 @@ If you want to load specify spoon. First you should copy the config like this:
 ```bash
 cd ~
 cd .hammerspoon/private
-# if there is this file ,you need't to copy it 
+# if the file exists ,you need't to copy it 
 cp ../example/load_which_spoon.lua load_which_spoon.lua 
 ```
 
-This demo come  and change from [this](https://github.com/ashfinal/awesome-hammerspoon/blob/master/config-example.lua)
+This demo come  and change from [here](https://github.com/ashfinal/awesome-hammerspoon/blob/master/config-example.lua)
 
 You can add the spoon you want to load . eg: You want to load spoon `TheSpoonName`
 
