@@ -1,0 +1,8 @@
+.DS_Store
+private/
+!Spoons/
+Spoons/*/
+!Spoons/ModalMgr.spoon/
+!Spoons/ModalMgr.spoon/*
+!Spoons/SpeedMenu.spoon/
+!Spoons/SpeedMenu.spoon/*
