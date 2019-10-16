@@ -11,7 +11,7 @@ This is a  configuration for [Hammerspoon](http://www.hammerspoon.org/) based on
 
 3. Reload the configutation.
 
-## How to use
+## How to use in MacOs
 
 #### 1. Binding Global Key 
 
